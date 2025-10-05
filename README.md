@@ -1,0 +1,3 @@
+Project Description
+
+Analyzed Blinkit sales data to identify key trends and optimize product offerings. Examined pricing, brand performance, and customer preferences, uncovering regional sales variations and purchasing behaviors over time. This provided actionable insights to inform strategic decisions. The analysis enabled data-driven recommendations for inventory management, marketing campaigns, and product development, driving business growth and customer satisfaction. Insights were presented through interactive dashboards and reports, facilitating stakeholder understanding and decision-making.
